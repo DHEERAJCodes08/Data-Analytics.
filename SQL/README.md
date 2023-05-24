@@ -10,6 +10,9 @@
    
    
    
-   ![Example Image](SQL/SQL JOINS.jpg)
+   ![Example Image](SQL JOINS.jpg)
+   
+   ![Alt Text](relative/path/to/SQL JOINS.jpg)
+
 
    
