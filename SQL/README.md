@@ -6,3 +6,10 @@
 
 ♦️  What is a database? ⚡🤔
    A database is a collection of organised data that can be easily stored, sorted, retrieved and searched. 
+   
+   
+   
+   
+   ![Example Image](SQL/SQL JOINS.jpg)
+
+   
