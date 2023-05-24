@@ -1,3 +1,8 @@
+
+   ![DataAnalyst](https://github.com/DHEERAJCodes08/Data-Analytics./assets/117454470/3f4b7076-45a9-4d6d-b126-4668361c28fc)
+
+
+
     ♦️  What is SQL?🤔 
         ✨SQL stands for Structured Query Language. SQL lets you access and manipulate databases.
         The intention of SQL is to store, retrieve, manage and manipulate data within a database management system.
@@ -55,6 +60,8 @@ DQL is used to fetch the data from the database.
 It uses only one command:
 
          🟢SELECT
+
+
 
 
 
